@@ -10,10 +10,25 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ---
-title: form
-embed form:
-- title: title
-  details: details
+home: true
+heroText: 
+heroImage: 
+actionText: 
+actionLink: 
+features:
+- title: ⛽  
+  details: 工欲善其事，必先利其器！
+- title: 🤡  
+  details: 
+- title: 🤖 
+  details:  
+- title: 🦄 
+  details:  
+- title: 🚀 
+  details:  
+- title: 🎡 
+  details:  
+footer: 
 ---
 
 ![image](https://user-images.githubusercontent.com/44080581/178805461-aa585a52-fa94-4b6a-b700-ee1537fd1dd1.png)
