@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @beartyson
-- 👀 I’m interested in computer science, body building, Editing And Read Historical/Bio/Eco Book
+- 👀 I’m interested in computer science, body building, Vloging And Read Historical/Bio/Eco Book
 - 🌱 I’m currently working as a junior software programmer
 - 📫 How to reach me :
 
